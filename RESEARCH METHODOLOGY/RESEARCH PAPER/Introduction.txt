@@ -1,0 +1,43 @@
+Introduction
+
+The displacement crisis of the Rohingya people has emerged as one of the most pressing humanitarian challenges of the 21st century. With over 900,000 Rohingya refugees currently residing in makeshift camps in Bangladesh, there is an urgent need for innovative solutions that not only provide basic accommodation but also foster productivity and self-sufficiency (Milton et al., 2017). This paper aims to explore the development of an intelligent accommodation system for Rohingya refugees that integrates sustainable living conditions with opportunities for economic and social productivity, leveraging the capabilities of artificial intelligence (AI) to address these needs.
+
+Problem Background
+
+The Rohingya, an ethnic minority from Myanmar, have faced decades of systemic persecution, leading to mass displacement. The influx of refugees into Bangladesh, particularly in the Cox’s Bazar region, has created severe strain on resources and infrastructure. Traditional refugee camps often focus solely on providing immediate relief, such as food and shelter, neglecting long-term sustainability and the potential for refugees to contribute economically and socially (Bhatia et al., 2018). Moreover, the camps are plagued by rising crime rates and insecurity, with criminal groups vying for control over narcotics and arms trade, as highlighted by recent reports from The Daily Star (2023) and the Dhaka Tribune (2023). This paper addresses the critical need to rethink refugee accommodation from a perspective that includes productivity, self-reliance, and enhanced security.
+
+The core problem is the inadequacy of current refugee accommodation systems to provide more than just temporary relief. This issue is crucial because it impacts the dignity, well-being, and future prospects of refugees. Addressing this problem relates directly to our research question: How can we develop an accommodation system for Rohingya refugees that also facilitates their productivity and ensures their security?
+
+Related Studies
+
+Several studies have examined the conditions and needs of Rohingya refugees. For example, Bhatia et al. (2018) highlight the dire living conditions in the camps, emphasizing the lack of basic amenities and economic opportunities. Similarly, Milton et al. (2017) discuss the health challenges faced by the Rohingya due to overcrowding and poor sanitation. The Daily Star (2023) reports an alarming rise in crimes within the camps, including murders and drug-related offenses, which are often linked to the activities of armed groups such as the Arakan Rohingya Salvation Army (ARSA) and the Arakan Solidarity Organisation (RSO). The Dhaka Tribune (2023) highlights the issue of Rohingya refugees obtaining fake Bangladeshi identification documents, further complicating the security dynamics within the camps.
+
+While these studies provide valuable insights, there is a notable gap in the literature regarding integrated solutions that combine accommodation with productivity-enhancing features and advanced technologies such as AI. This research aims to fill that gap by proposing a holistic approach to refugee accommodation that leverages AI to enhance sustainability, productivity, and security.
+
+
+
+
+## Research Motivation and Aims
+
+This research aims to explore the development of an intelligent accommodation system for Rohingya refugees that integrates sustainable living conditions with opportunities for economic and social productivity, leveraging the capabilities of artificial intelligence (AI) to address these needs[1][2][4]. The objectives are to design an accommodation system that is both sustainable and conducive to long-term living, identify and integrate economic activities that can be supported within the accommodation system to foster productivity and self-sufficiency among refugees, and implement AI technologies to optimize resource allocation, enhance security, and support economic integration within the refugee camps[1][2][4].
+
+Research Question
+
+How can we develop an intelligent accommodation system for Rohingya refugees that also facilitates their productivity and ensures their security using AI?
+
+By addressing this question, the research aims to provide a holistic solution that not only meets the immediate needs of the refugees but also empowers them to contribute positively to their community and the host country[1][2][4]. This approach not only benefits the refugees but also alleviates the socio-economic burden on the host country[1][2][4].
+
+
+Research Contributions
+
+This research will contribute to the field of humanitarian aid and refugee studies by providing a framework for developing intelligent accommodation systems that go beyond basic needs. The findings will be particularly relevant to policymakers, NGOs, and international organizations working in refugee camps. The proposed solutions aim to empower refugees, reduce dependency on aid, and promote integration with the host community. This approach not only benefits the refugees but also alleviates the socio-economic burden on the host country.
+
+By proposing a model that integrates sustainability, productivity, and AI technologies, this paper seeks to offer practical and scalable solutions that can be adapted to various refugee contexts globally. The intelligent accommodation system will not only improve the living conditions and security of the refugees but also create opportunities for economic and social productivity, paving the way for a more sustainable and peaceful future.
+
+
+**References:**
+
+- Bhatia, A., Mahmud, A., Fuller, A., Shin, R., Rahman, A., Shatil, T., ... & Mahmood, S. S. (2018). The Rohingya in Cox’s Bazar: When the Stateless Seek Refuge. *Health and Human Rights Journal*, 20(2), 105-122.
+- Milton, A. H., Rahman, M., Hussain, S., Jindal, C., Choudhury, S., Akter, S., ... & Efird, J. T. (2017). Trapped in Statelessness: Rohingya Refugees in Bangladesh. *International Journal of Environmental Research and Public Health*, 14(8), 942.
+- "Refugee Camps: Killings, narco crimes on rise" (2023). *The Daily Star*. Retrieved from [The Daily Star](https://www.thedailystar.net/news/bangladesh/crime-justice/news/refugee-camps-killings-narco-crimes-rise-3402601)
+- "Detectives reveal how Rohingyas obtain fake Bangladeshi IDs" (2023). *Dhaka Tribune*. Retrieved from [Dhaka Tribune](https://www.dhakatribune.com/bangladesh/crime/340383/detectives-reveal-how-rohingyas-obtain-fake)
