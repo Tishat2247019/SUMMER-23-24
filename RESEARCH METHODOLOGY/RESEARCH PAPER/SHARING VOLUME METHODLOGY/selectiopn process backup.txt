@@ -1,0 +1,16 @@
+#########1
+3.3.1 Initial Screening
+An initial search yielded approximately 87 articles. Titles and abstracts were reviewed based on the inclusion and exclusion criteria to determine relevance. This process narrowed the selection to 200 articles for further detailed assessment. Only studies with relevant abstracts were retained at this stage, as it was determined that reviewing abstracts could sufficiently gauge the potential contribution of the research.
+
+3.3.2 Abstract Review
+Given that abstracts provided valuable insights into the relevance of each article, a more thorough abstract review was conducted on the 200 selected papers. This step replaced the traditional full-text review process, as it was decided that abstracts alone were beneficial for identifying the most pertinent studies. Following this review, 45 articles were deemed relevant for further analysis.
+
+3.3.3 Final Selection
+Of the 45 articles, 13 were selected for detailed analysis, based on their direct relevance to the research question, methodological rigor, and contribution to the field. These studies were considered essential for informing the development of AI-driven refugee accommodation systems.
+
+
+
+##########2
+
+
+
